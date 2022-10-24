@@ -1,5 +1,5 @@
 # Ecosystem Simulator
-The infection of an ecosystem when faced with the attack of a zombie apocalypse.
+The infection of an ecosystem when faced with the threat of a zombie apocalypse.
 
 * A simulation of an ecosystem introducing the use of JFrame and demonstrating basic principles of object-oriented programming
 * Humans of opposite gender that encounter each other will produce another human of random gender
