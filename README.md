@@ -1,6 +1,7 @@
 # Ecosystem Simulator
-A simulation of an ecosystem, depicting a facetious zombie apocalypse.
-* Ecosystem Simulation project introducing the use of JFrame and demonstrating basic principles of object-oriented programming
+The infection of an ecosystem when faced with the attack of a zombie apocalypse.
+
+* A simulation of an ecosystem introducing the use of JFrame and demonstrating basic principles of object-oriented programming
 * Humans of opposite gender that encounter each other will produce another human of random gender
 * Zombies that encounter a human will infect the human
 * Plants periodically clone themselves in all four cardinal directions
