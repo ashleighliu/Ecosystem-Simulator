@@ -1,4 +1,4 @@
-# Cheerville
+# Ecosystem Simulator
 A simulation of an ecosystem, depicting a facetious zombie apocalypse.
 * Ecosystem Simulation project introducing the use of JFrame and demonstrating basic principles of object-oriented programming
 * Humans of opposite gender that encounter each other will produce another human of random gender
