@@ -10,5 +10,3 @@ The infection of an ecosystem when faced with the threat of a zombie apocalypse.
 * Each tick decreases the health of every organism by one
     * When the health of an organism reaches zero, it will perish
 * When all humans have been infected, the simulation ends
-
-Ashleigh Liu, 2021
